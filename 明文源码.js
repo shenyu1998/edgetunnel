@@ -3941,4 +3941,5 @@ async function bestIP(request, env, txt = 'ADD.txt') {
 			'Content-Type': 'text/html; charset=UTF-8',
 		},
 	});
+
 }
